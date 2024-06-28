@@ -1,5 +1,5 @@
 {
-  "name": "travel_app_gfg_strudent_version",
+  "name": "TravelO App",
   "version": "1.0.0",
   "description": "Travel App",
   "main": "server.js",
@@ -10,15 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakashsakari/travel_app_GFG_strudent_version.git"
+    "url": "https://github.com/iamstufff/TravelOApp"
   },
   "keywords": [],
-  "author": "Prakash Sakari",
+  "author": "Abhishek Saini",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prakashsakari/travel_app_GFG_strudent_version/issues"
-  },
-  "homepage": "https://github.com/prakashsakari/travel_app_GFG_strudent_version#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
